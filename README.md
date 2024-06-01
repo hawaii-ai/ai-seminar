@@ -1,8 +1,7 @@
 Public site for UH Manoa AI Seminar
-Fridays 12:00-13:05 in POST 302
-For zoom link or 699 credit, contact [psadow]([url](https://peterjsadowski.github.io/)) at hawaii
-
-Paper ideas: [spreadsheet]([url](https://docs.google.com/spreadsheets/d/1ah-JpoPwa59x--LdwsAmpWh5Tv3OvqMhBrs60mSTjKo/edit?usp=sharing))
+- Fridays 12:00-13:05 in POST 302
+- For zoom link or 699 credit, contact [psadow]([url](https://peterjsadowski.github.io/)) at hawaii
+- Paper ideas: [spreadsheet]([url](https://docs.google.com/spreadsheets/d/1ah-JpoPwa59x--LdwsAmpWh5Tv3OvqMhBrs60mSTjKo/edit?usp=sharing))
 
 # 2024 Summer Schedule
 
