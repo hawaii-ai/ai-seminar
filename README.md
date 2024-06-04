@@ -5,10 +5,10 @@ Public site for UH Manoa AI Seminar
 
 # 2024 Summer Schedule
 
-05-31-2024: [In What Ways Are Deep Neural Networks Invariant and How Should We Measure This?]([url](https://arxiv.org/abs/2210.03773)) (feat. Yash Lodha)
+05-31-2024: [In What Ways Are Deep Neural Networks Invariant and How Should We Measure This?]([url](https://arxiv.org/abs/2210.03773)) (presented by Yash Lodha)
 
 06-07-2024: [KL is All You Need
-]([url](https://blog.alexalemi.com/kl-is-all-you-need.html))
+]([url](https://blog.alexalemi.com/kl-is-all-you-need.html)) (presented by Peter Sadowski)
 
 06-14-2024:
 
