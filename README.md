@@ -13,9 +13,9 @@ Public site for UH Manoa AI Seminar
 06-07-2024: [KL is All You Need
 ](https://blog.alexalemi.com/kl-is-all-you-need.html) (presented by Peter Sadowski)
 
-06-14-2024:
+06-14-2024: TBD
 
-06-21-2024:
+06-21-2024: [Aurora: A Foundation Model of the Atmosphere](https://arxiv.org/abs/2405.13063)
 
 06-28-2024:
 
