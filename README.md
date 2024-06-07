@@ -21,7 +21,7 @@ Public site for UH Manoa AI Seminar
 
 07-05-2024:
 
-07-10-2024: SPECIAL IN-PERSON TALK: Deva Ramanan
+07-10-2024: SPECIAL IN-PERSON TALK: [Deva Ramanan](https://www.cs.cmu.edu/~deva/)
 
 07-12-2024:
 
