@@ -13,7 +13,7 @@ Public site for UH Manoa AI Seminar
 06-07-2024: [KL is All You Need
 ](https://blog.alexalemi.com/kl-is-all-you-need.html) (presented by Peter Sadowski)
 
-06-14-2024: [Ranks underlie outcome of combining classifiers: Quantitative roles for diversity and accuracy](https://www.sciencedirect.com/science/article/pii/S2666389921002890)
+06-14-2024: [Ranks underlie outcome of combining classifiers: Quantitative roles for diversity and accuracy](https://www.sciencedirect.com/science/article/pii/S2666389921002890) (presented by Arianna Bunnell)
 
 06-21-2024: [Aurora: A Foundation Model of the Atmosphere](https://arxiv.org/abs/2405.13063)
 
