@@ -17,9 +17,9 @@ Public site for UH Manoa AI Seminar
 
 06-21-2024: [Transcendence: Generative Models Can Outperform The Experts That Train Them](https://arxiv.org/abs/2406.11741) (presented by Mitchell Dennis)
 
-06-28-2024: [Aurora: A Foundation Model of the Atmosphere](https://arxiv.org/abs/2405.13063)
+06-28-2024:
 
-07-05-2024:
+07-05-2024: [Aurora: A Foundation Model of the Atmosphere](https://arxiv.org/abs/2405.13063)
 
 07-10-2024: SPECIAL IN-PERSON TALK: [Deva Ramanan](https://www.cs.cmu.edu/~deva/), Perceiving and Understanding a Dynamic 3D World
 
