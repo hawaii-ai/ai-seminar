@@ -17,7 +17,7 @@ Public site for UH Manoa AI Seminar
 
 06-21-2024: [Transcendence: Generative Models Can Outperform The Experts That Train Them](https://arxiv.org/abs/2406.11741) (presented by Mitchell Dennis)
 
-06-28-2024:
+06-28-2024: [RankMe: Assessing the downstream performance of pretrained self-supervised representations by their rank](https://arxiv.org/abs/2210.02885) (presented by Yannik Glaser)
 
 07-05-2024: [Aurora: A Foundation Model of the Atmosphere](https://arxiv.org/abs/2405.13063)
 
