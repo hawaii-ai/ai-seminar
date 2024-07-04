@@ -1,4 +1,4 @@
-Public site for UH Manoa AI Seminar
+Public [site](https://github.com/hawaii-ai/ai-seminar) for UH Manoa AI Seminar
 - Fridays 12:00-13:30 in POST 302
 - For zoom link or 699 credit, contact [psadow](https://peterjsadowski.github.io/) at hawaii
 - Paper ideas: [spreadsheet](https://docs.google.com/spreadsheets/d/1ah-JpoPwa59x--LdwsAmpWh5Tv3OvqMhBrs60mSTjKo/edit?usp=sharing)
@@ -19,10 +19,12 @@ Public site for UH Manoa AI Seminar
 
 06-28-2024: [RankMe: Assessing the downstream performance of pretrained self-supervised representations by their rank](https://arxiv.org/abs/2210.02885) (presented by Yannik Glaser)
 
-07-05-2024: [Aurora: A Foundation Model of the Atmosphere](https://arxiv.org/abs/2405.13063)
+07-05-2024: No meeting.
 
 07-10-2024: SPECIAL IN-PERSON TALK: [Deva Ramanan](https://www.cs.cmu.edu/~deva/), Perceiving and Understanding a Dynamic 3D World
 
 07-12-2024:
 
 07-19-2024:
+
+07-26-2024: [Aurora: A Foundation Model of the Atmosphere](https://arxiv.org/abs/2405.13063)
