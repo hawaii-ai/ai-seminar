@@ -21,7 +21,7 @@ Public [site](https://github.com/hawaii-ai/ai-seminar) for UH Manoa AI Seminar
 
 07-05-2024: No meeting.
 
-07-10-2024: SPECIAL IN-PERSON TALK: [Deva Ramanan](https://www.cs.cmu.edu/~deva/), Perceiving and Understanding a Dynamic 3D World
+07-10-2024: SPECIAL IN-PERSON TALK (11am in POST): [Deva Ramanan](https://www.cs.cmu.edu/~deva/), Perceiving and Understanding a Dynamic 3D World
 
 07-12-2024:
 
