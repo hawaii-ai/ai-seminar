@@ -25,7 +25,7 @@ Public [site](https://github.com/hawaii-ai/ai-seminar) for UH Manoa AI Seminar
 
 07-12-2024: No meeting.
 
-07-19-2024: TBD
+07-19-2024: [Generative Model by Estimating Gradients of the Data Distribution](https://arxiv.org/abs/1907.05600) (presented by Yusuke Hatanaka)
 
 07-26-2024: SPECIAL IN-PERSON TALK: [Nikita Zhivotovskiy](https://sites.google.com/view/nikitazhivotovskiy/), Improving Risk Bounds with Unbounded Losses via Data-Dependent Priors. 
 
