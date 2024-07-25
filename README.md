@@ -31,4 +31,10 @@ Public [site](https://github.com/hawaii-ai/ai-seminar) for UH Manoa AI Seminar
 
 Abstract: In this talk, we revisit sequential linear regression, classification, and logistic regression, using scenarios where design vectors are known in advance but unordered. We discuss how this allows us to convert bounds into statistical ones with random design without additional assumptions. Using the exponential weights algorithm and data-dependent priors, we manage unbounded norms of optimal solutions. We show our classification regret bounds depend only on dimension and rounds, not on design vectors or norms. We argue these bounds are unique to this setting and unattainable in worst-case setups, offering polynomial-time algorithms involving log-concave sampling.
 
-08-02-2024: [Aurora: A Foundation Model of the Atmosphere](https://arxiv.org/abs/2405.13063)
+08-02-2024: No meeting scheduled.
+
+08-09-2024: No meeting scheduled.
+
+08-16-2024: No meeting. Holiday.
+
+08-23-2024: [Aurora: A Foundation Model of the Atmosphere](https://arxiv.org/abs/2405.13063)
