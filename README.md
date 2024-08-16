@@ -35,4 +35,3 @@ Public [site](https://github.com/hawaii-ai/ai-seminar) for UH Manoa AI Seminar
 2024-05-31: [In What Ways Are Deep Neural Networks Invariant and How Should We Measure This?](https://arxiv.org/abs/2210.03773) (presented by Yash Lodha)
 
 
-
