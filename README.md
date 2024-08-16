@@ -34,4 +34,22 @@ Public [site](https://github.com/hawaii-ai/ai-seminar) for UH Manoa AI Seminar
 
 2024-05-31: [In What Ways Are Deep Neural Networks Invariant and How Should We Measure This?](https://arxiv.org/abs/2210.03773) (presented by Yash Lodha)
 
+2024-04-19: [Stitchable Neural Networks](https://openaccess.thecvf.com/content/CVPR2023/papers/Pan_Stitchable_Neural_Networks_CVPR_2023_paper.pdf) (Amila leads)
 
+2024-04-12: [A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html)  (Levi leads)
+
+2024-04-05: TALK: Dusko Pavlovic
+
+2024-03-15: TALK: Andrey Popov
+
+2024-03-08: [Superintelligence](https://idlewords.com/talks/superintelligence.htm)
+
+2024-03-01: [UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction](https://arxiv.org/abs/1802.03426) (Arianna leads)
+
+2024-02-16: [MLP-Mixer: An All-MLP Architecture for Vision](https://arxiv.org/abs/2105.01601) (Yosub leads)
+
+2024-02-09: [Revisiting the Calibration of Modern Neural Networks](https://arxiv.org/abs/2106.07998) (Nick leads)
+
+2024-02-02: [3D Gaussian Splatting](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/) (also check out blog post [here](https://huggingface.co/blog/gaussian-splatting); Peter leads)
+
+2024-01-26: [Sources of Uncertainty in ML: A Statistician's View](https://arxiv.org/abs/2305.16703) (Arianna leads)
