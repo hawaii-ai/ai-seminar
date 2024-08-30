@@ -1,6 +1,6 @@
 Public [site](https://github.com/hawaii-ai/ai-seminar) for UH Manoa AI Seminar
 - Fridays 12:00-13:30 in POST 302
-- For zoom link or 699 credit, contact [psadow](https://peterjsadowski.github.io/) at hawaii
+- For zoom link or 692/699 credit, contact [psadow](https://peterjsadowski.github.io/) at hawaii
 - Paper ideas: [spreadsheet](https://docs.google.com/spreadsheets/d/1ah-JpoPwa59x--LdwsAmpWh5Tv3OvqMhBrs60mSTjKo/edit?usp=sharing)
 - To subscribe to the listserv, email listserv@lists.hawaii.edu with no subject and the following body:
   
