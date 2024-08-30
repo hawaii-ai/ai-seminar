@@ -8,7 +8,9 @@ Public [site](https://github.com/hawaii-ai/ai-seminar) for UH Manoa AI Seminar
 
 # 2024 Fall Schedule
 
-2024-08-30: [Aurora: A Foundation Model of the Atmosphere](https://arxiv.org/abs/2405.13063)
+Upcoming: [Aurora: A Foundation Model of the Atmosphere](https://arxiv.org/abs/2405.13063)
+
+2024-08-30: [The Hidden Uniform Cluster Prior in Self-Supervised Learning], Assran, et al. (presented by Nick)
 
 2024-08-27: SPECIAL IN-PERSON TALK (2pm in MSB 100): Michael Ito, University of Michigan
 
