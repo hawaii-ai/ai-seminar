@@ -1,4 +1,4 @@
-Public [site](https://github.com/hawaii-ai/ai-seminar) for UH Manoa AI Seminar
+UH Manoa AI Seminar
 - Fridays 12:00-13:30 in POST 302
 - For zoom link or 692/699 credit, contact [psadow](https://peterjsadowski.github.io/) at hawaii
 - Paper ideas: [spreadsheet](https://docs.google.com/spreadsheets/d/1ah-JpoPwa59x--LdwsAmpWh5Tv3OvqMhBrs60mSTjKo/edit?usp=sharing)
@@ -8,13 +8,15 @@ Public [site](https://github.com/hawaii-ai/ai-seminar) for UH Manoa AI Seminar
 
 # 2024 Fall Schedule
 
-Upcoming: [Aurora: A Foundation Model of the Atmosphere](https://arxiv.org/abs/2405.13063)
+2024-09-06: [SAM 2: Segment Anything in Images and Videos](https://arxiv.org/abs/2408.00714) [website](https://ai.meta.com/sam2/) Ravi, et al. (presented by Joel)
 
 2024-08-30: [The Hidden Uniform Cluster Prior in Self-Supervised Learning](https://arxiv.org/abs/2210.07277), Assran, et al. (presented by Nick)
 
 2024-08-27: SPECIAL IN-PERSON TALK (2pm in MSB 100): Michael Ito, University of Michigan
 
 2024-08-23: No meeting scheduled. 
+
+Todo: [Aurora: A Foundation Model of the Atmosphere](https://arxiv.org/abs/2405.13063)
 
 
 # Past Seminars
@@ -55,3 +57,5 @@ Upcoming: [Aurora: A Foundation Model of the Atmosphere](https://arxiv.org/abs/2
 2024-02-02: [3D Gaussian Splatting](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/) (also check out blog post [here](https://huggingface.co/blog/gaussian-splatting); Peter leads)
 
 2024-01-26: [Sources of Uncertainty in ML: A Statistician's View](https://arxiv.org/abs/2305.16703) (Arianna leads)
+
+Powered by Github [sites](https://github.com/hawaii-ai/ai-seminar)
