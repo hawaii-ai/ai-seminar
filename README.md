@@ -8,6 +8,8 @@ UH Manoa AI Seminar
 
 # 2024 Fall Schedule
 
+2024-09-13: Mitchell to present
+
 2024-09-06: [SAM 2: Segment Anything in Images and Videos](https://arxiv.org/abs/2408.00714) [website](https://ai.meta.com/sam2/) Ravi, et al. (presented by Joel)
 
 2024-08-30: [The Hidden Uniform Cluster Prior in Self-Supervised Learning](https://arxiv.org/abs/2210.07277), Assran, et al. (presented by Nick)
