@@ -1,16 +1,18 @@
 UH Manoa AI Seminar
 - Fridays 12:00-13:30 in POST 302
 - For zoom link or 692/699 credit, contact [psadow](https://peterjsadowski.github.io/) at hawaii
-- Paper ideas: [spreadsheet](https://docs.google.com/spreadsheets/d/1ah-JpoPwa59x--LdwsAmpWh5Tv3OvqMhBrs60mSTjKo/edit?usp=sharing)
+- [Site](https://github.com/hawaii-ai/ai-seminar) and paper ideas [spreadsheet](https://docs.google.com/spreadsheets/d/1ah-JpoPwa59x--LdwsAmpWh5Tv3OvqMhBrs60mSTjKo/edit?usp=sharing)
 - To subscribe to the listserv, email listserv@lists.hawaii.edu with no subject and the following body:
   
 `SUBSCRIBE AI-SEMINAR firstname lastname`
 
 # 2024 Fall Schedule
 
-2024-09-13: Mitchell to present
+2024-09-20: TBD
 
-2024-09-06: [SAM 2: Segment Anything in Images and Videos](https://arxiv.org/abs/2408.00714) [website](https://ai.meta.com/sam2/) Ravi, et al. (presented by Joel)
+2024-09-13: [Stochastic Neural Network Symmetrisation in Markov Categories](https://arxiv.org/abs/2406.11814), Cornish (presented by Mitchell)
+
+2024-09-06: [SAM 2: Segment Anything in Images and Videos](https://arxiv.org/abs/2408.00714) [website](https://ai.meta.com/sam2/), Ravi, et al. (presented by Joel)
 
 2024-08-30: [The Hidden Uniform Cluster Prior in Self-Supervised Learning](https://arxiv.org/abs/2210.07277), Assran, et al. (presented by Nick)
 
@@ -60,4 +62,3 @@ Todo: [Aurora: A Foundation Model of the Atmosphere](https://arxiv.org/abs/2405.
 
 2024-01-26: [Sources of Uncertainty in ML: A Statistician's View](https://arxiv.org/abs/2305.16703) (Arianna leads)
 
-Powered by Github [sites](https://github.com/hawaii-ai/ai-seminar)
