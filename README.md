@@ -8,6 +8,8 @@ UH Manoa AI Seminar
 
 # 2024 Fall Schedule
 
+2024-09-27: [Pygmalion Displacement: When Humanising AI Dehumanises Women](https://osf.io/preprints/socarxiv/jqxb6), Erscoi, et al. (presented by Arianna)
+
 2024-09-20: Classic paper: [Generative Adversarial Nets](https://arxiv.org/abs/1406.26610), Goodfellow, et al. 2014 (presented by Zain)
 
 2024-09-13: [Stochastic Neural Network Symmetrisation in Markov Categories](https://arxiv.org/abs/2406.11814), Cornish (presented by Mitchell)
