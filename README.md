@@ -8,6 +8,8 @@ UH Manoa AI Seminar
 
 # 2024 Fall Schedule
 
+2024-10-04: TALK: [Karthika Mohan](https://www.karthikamohan.com/), Oregon State University, Causal Inference with Missing Data: Missingness Graphs, Recoverability and Testability (register [here](https://aiphi.shepherdresearchlab.org/event/affinity-group-october-2024/))
+
 2024-09-27: [Pygmalion Displacement: When Humanising AI Dehumanises Women](https://osf.io/preprints/socarxiv/jqxb6), Erscoi, et al. (presented by Arianna)
 
 2024-09-20: Classic paper: [Generative Adversarial Nets](https://arxiv.org/abs/1406.26610), Goodfellow, et al. 2014 (presented by Zain)
