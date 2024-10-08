@@ -1,7 +1,6 @@
-UH Manoa AI Seminar
+UH Manoa Weekly AI Seminar
 - Fridays 12:00-13:30 in POST 302
-- For zoom link or 692/699 credit, contact [psadow](https://peterjsadowski.github.io/) at hawaii
-- [Site](https://github.com/hawaii-ai/ai-seminar) and paper ideas [spreadsheet](https://docs.google.com/spreadsheets/d/1ah-JpoPwa59x--LdwsAmpWh5Tv3OvqMhBrs60mSTjKo/edit?usp=sharing)
+- Join via zoom or get 692/699 credit (contact [psadow](https://peterjsadowski.github.io/) at hawaii)
 - To subscribe to the listserv, email listserv@lists.hawaii.edu with no subject and the following body:
   
 `SUBSCRIBE AI-SEMINAR firstname lastname`
@@ -27,6 +26,8 @@ UH Manoa AI Seminar
 2024-08-23: No meeting scheduled. 
 
 Todo: [Aurora: A Foundation Model of the Atmosphere](https://arxiv.org/abs/2405.13063)
+
+[Site](https://github.com/hawaii-ai/ai-seminar) and paper ideas [spreadsheet](https://docs.google.com/spreadsheets/d/1ah-JpoPwa59x--LdwsAmpWh5Tv3OvqMhBrs60mSTjKo/edit?usp=sharing)
 
 
 # Past Seminars
