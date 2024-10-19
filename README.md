@@ -7,6 +7,8 @@ UH Manoa Weekly AI Seminar
 
 # 2024 Fall Schedule
 
+2024-11-01: SPECIAL IN-PERSON TALK (12-1pm): Lenore Pipes, Univ. of Hawaii Manoa
+
 2024-10-18: [Hopfield Networks is All You Need](https://arxiv.org/abs/2008.02217) Ramsauer, et al. 2020 (presented by Peter)
 
 2024-10-11: [Physics-Informed Neural Networks for Multiphysics Data Assimilation with Application to Subsurface Transport](https://www.sciencedirect.com/science/article/abs/pii/S0309170819311649) He, et al. 2020 (presented by Kevin Egan)
