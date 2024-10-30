@@ -7,6 +7,8 @@ UH Manoa Weekly AI Seminar
 
 # 2024 Fall Schedule
 
+2024-11-08: [Towards a Feminist Metaethics of AI](https://arxiv.org/abs/2311.14700), Siapka 2022 (presented by Kayla-Marie)
+
 2024-11-01: SPECIAL IN-PERSON TALK (12-1pm): Lenore Pipes, Univ. of Hawaii Manoa
 
 2024-10-25: [On Learning to Think: Algorithmic Information Theory for Novel Combinations of Reinforcement Learning Controllers and Recurrent Neural World Models
