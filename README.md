@@ -7,14 +7,16 @@ UH Manoa Weekly AI Seminar
 
 # 2024 Fall Schedule
 
+2024-11-15: [Multimodal contrastive learning for remote sensing tasks](https://arxiv.org/abs/2209.02329), Jain, et al 2022 (presented by Amila)
+
 2024-11-08: [Towards a Feminist Metaethics of AI](https://arxiv.org/abs/2311.14700), Siapka 2022 (presented by Kayla-Marie)
 
 2024-11-01: SPECIAL IN-PERSON TALK (12-1pm): Lenore Pipes, Univ. of Hawaii Manoa
 
 2024-10-25: [On Learning to Think: Algorithmic Information Theory for Novel Combinations of Reinforcement Learning Controllers and Recurrent Neural World Models
-](https://arxiv.org/abs/1511.09249) Schmidhuber (presented by Peter)
+](https://arxiv.org/abs/1511.09249), Schmidhuber (presented by Peter)
 
-2024-10-18: [Hopfield Networks is All You Need](https://arxiv.org/abs/2008.02217) Ramsauer, et al. 2020 (presented by Peter)
+2024-10-18: [Hopfield Networks is All You Need](https://arxiv.org/abs/2008.02217), Ramsauer, et al. 2020 (presented by Peter)
 
 2024-10-11: [Physics-Informed Neural Networks for Multiphysics Data Assimilation with Application to Subsurface Transport](https://www.sciencedirect.com/science/article/abs/pii/S0309170819311649) He, et al. 2020 (presented by Kevin Egan)
 
@@ -22,7 +24,7 @@ UH Manoa Weekly AI Seminar
 
 2024-09-27: [Pygmalion Displacement: When Humanising AI Dehumanises Women](https://osf.io/preprints/socarxiv/jqxb6), Erscoi, et al. (presented by Arianna)
 
-2024-09-20: Classic paper: [Generative Adversarial Nets](https://arxiv.org/abs/1406.26610), Goodfellow, et al. 2014 (presented by Zain)
+2024-09-20: [Generative Adversarial Nets](https://arxiv.org/abs/1406.26610), Goodfellow, et al. 2014 (Classic paper, presented by Zain)
 
 2024-09-13: [Stochastic Neural Network Symmetrisation in Markov Categories](https://arxiv.org/abs/2406.11814), Cornish (presented by Mitchell)
 
