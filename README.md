@@ -80,3 +80,30 @@ Todo: [Aurora: A Foundation Model of the Atmosphere](https://arxiv.org/abs/2405.
 
 2024-01-26: [Sources of Uncertainty in ML: A Statistician's View](https://arxiv.org/abs/2305.16703) (Arianna leads)
 
+2023-12-01: [Hyena Hierarchy: Towards Larger Convolutional Language Models](https://arxiv.org/abs/2302.10866), Poli, et al. 2023 (presented by Levi)
+
+2023-11-17: [GradMax: Growing Neural Networks using Gradient Information](https://arxiv.org/abs/2201.05125), Evci, et al. 2022 (presented by Amila)
+
+2023-11-03: SPECIAL IN-PERSON TALK: Keolohilani Lopes Jr
+
+2023-11-03: SPECIAL IN-PERSON TALK: Ieva Daukantas
+
+2023-10-27: [Active Learning for Computationally Efficient Distribution of Binary Evolution Simulations](https://arxiv.org/abs/2203.16683), Rocha, et al. 2022 (presented by Mitchell)
+
+2023-10-20: [Coupled adversarial learning for fusion classification of hyperspectral and LiDAR data](https://www.sciencedirect.com/science/article/abs/pii/S156625352200269X), Lu, et al. 2023 (presented by Sophia)
+
+2023-10-13: [Fourier Neural Operator for Parametric Partial Differential Equations](https://arxiv.org/abs/2010.08895), Li, et al. 2020 (presented by Linnea)
+
+2023-10-06: [Leveraging Protein Language Models for Accurate Multiple Sequence Alignments](https://pubmed.ncbi.nlm.nih.gov/37414576/), McWhite, et al. 2023 (presented by Will)
+
+2023-09-29: [Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture](https://arxiv.org/abs/2301.08243), Assran, et al. 2023 (presented by Moseli)
+
+2023-09-22: [MSA Transformer](https://www.biorxiv.org/content/10.1101/2021.02.12.430858v1.full), Rao, et al. 2023 (presented by Rajan)
+
+2023-09-22: [Deep Cox Mixtures for Survival Regression](https://arxiv.org/abs/2101.06536), Nagpal, et al. 2021 (presented by Arianna)
+
+2023-09-08: SPECIAL IN-PERSON TALK: John Shepherd, UH Cancer Center, Director of AI Precision Health Institute
+
+2023-08-25: [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/abs/2103.14030), Liu, et al. 2021 (presented by Nick)
+
+
