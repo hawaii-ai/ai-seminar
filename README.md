@@ -82,6 +82,8 @@ Todo: [Aurora: A Foundation Model of the Atmosphere](https://arxiv.org/abs/2405.
 
 2024-01-26: [Sources of Uncertainty in ML: A Statistician's View](https://arxiv.org/abs/2305.16703) (Arianna leads)
 
+2024-01-19: SPECIAL IN-PERSON TALK: Roberto Tamassia, Brown University, on Advances in Searchable Encryption
+
 2023-12-01: [Hyena Hierarchy: Towards Larger Convolutional Language Models](https://arxiv.org/abs/2302.10866), Poli, et al. 2023 (presented by Levi)
 
 2023-11-17: [GradMax: Growing Neural Networks using Gradient Information](https://arxiv.org/abs/2201.05125), Evci, et al. 2022 (presented by Amila)
