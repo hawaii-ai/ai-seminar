@@ -7,7 +7,8 @@ UH Manoa Weekly AI Seminar
 
 # 2024 Fall Schedule
 
-2024-11-22: [Knowledge in the grey zone: AI and cybersecurity](https://link.springer.com/article/10.1057/s42984-020-00007-w), Stevens, 2024 (presented by Chris)
+2024-12-06: [Knowledge in the grey zone: AI and cybersecurity](https://link.springer.com/article/10.1057/s42984-020-00007-w), Stevens, 2024 (presented by Chris)
+and [OmniFold: A Method to Simultaneously Unfold All Observables](https://arxiv.org/abs/1911.09107), Andreassen, et al 2020 (presented by Ethan)
 
 2024-11-15: [Multimodal contrastive learning for remote sensing tasks](https://arxiv.org/abs/2209.02329), Jain, et al 2022 (presented by Amila)
 
