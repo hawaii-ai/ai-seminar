@@ -5,12 +5,22 @@ UH Manoa Weekly AI Seminar
   
 `SUBSCRIBE AI-SEMINAR firstname lastname`
 
-# 2024 Fall Schedule
+# 2025 Spring Schedule
+
+2025-01-24: TBD
+
+2025-01-17: [Inferring neural activity before plasticity as a foundation for learning beyond backpropagation](https://www.nature.com/articles/s41593-023-01514-1) Song et al 2024 (presented by Peter)
+
+Todo: [Aurora: A Foundation Model of the Atmosphere](https://arxiv.org/abs/2405.13063)
+
+Signup [spreadsheet](https://docs.google.com/spreadsheets/d/1ah-JpoPwa59x--LdwsAmpWh5Tv3OvqMhBrs60mSTjKo/edit?usp=sharing) and [site](https://github.com/hawaii-ai/ai-seminar).
+
+
+# Past Seminars
 
 2024-12-06: [Knowledge in the grey zone: AI and cybersecurity](https://link.springer.com/article/10.1057/s42984-020-00007-w), Stevens, 2024 (presented by Chris),
 [OmniFold: A Method to Simultaneously Unfold All Observables](https://arxiv.org/abs/1911.09107), Andreassen, et al 2020 (presented by Ethan),
 [Exposing Outlier Exposure: What Can Be Learned From Few, One, and Zero Outlier Images](https://arxiv.org/abs/2205.11474), Liznerski et al, 2022 (presented by Tojo)
-
 
 2024-11-15: [Multimodal contrastive learning for remote sensing tasks](https://arxiv.org/abs/2209.02329), Jain, et al 2022 (presented by Amila)
 
@@ -38,15 +48,6 @@ UH Manoa Weekly AI Seminar
 2024-08-30: [The Hidden Uniform Cluster Prior in Self-Supervised Learning](https://arxiv.org/abs/2210.07277), Assran, et al. (presented by Nick)
 
 2024-08-27: SPECIAL IN-PERSON TALK (2pm in MSB 100): Michael Ito, University of Michigan
-
-2024-08-23: No meeting scheduled. 
-
-Todo: [Aurora: A Foundation Model of the Atmosphere](https://arxiv.org/abs/2405.13063)
-
-[Site](https://github.com/hawaii-ai/ai-seminar) and paper ideas [spreadsheet](https://docs.google.com/spreadsheets/d/1ah-JpoPwa59x--LdwsAmpWh5Tv3OvqMhBrs60mSTjKo/edit?usp=sharing)
-
-
-# Past Seminars
 
 2024-07-26: SPECIAL IN-PERSON TALK: [Nikita Zhivotovskiy](https://sites.google.com/view/nikitazhivotovskiy/), Improving Risk Bounds with Unbounded Losses via Data-Dependent Priors. 
 
