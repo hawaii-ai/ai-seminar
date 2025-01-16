@@ -1,9 +1,12 @@
 UH Manoa Weekly AI Seminar
 - Fridays 12:00-13:30 in POST 302
-- Join via zoom or get 692/699 credit (contact [psadow](https://peterjsadowski.github.io/) at hawaii)
 - To subscribe to the listserv, email listserv@lists.hawaii.edu with no subject and the following body:
   
 `SUBSCRIBE AI-SEMINAR firstname lastname`
+
+- To unsubscribe, send blank email to AI-SEMINAR-signoff-request@lists.hawaii.edu
+- To join via zoom or get 692/699 credit (contact [psadow](https://peterjsadowski.github.io/) at hawaii)
+
 
 # 2025 Spring Schedule
 
