@@ -10,9 +10,11 @@ UH Manoa Weekly AI Seminar
 
 # 2025 Spring Schedule
 
+2025-02-07: TBD
+
 2025-01-31: [Inferring neural activity before plasticity as a foundation for learning beyond backpropagation](https://www.nature.com/articles/s41593-023-01514-1) Song et al 2024 (presented by Peter)
 
-2025-01-24: TBD (presented by Arianna)
+2025-01-24: [A theoretical design of concept sets: improving the predictability of concept bottleneck models](https://openreview.net/forum?id=oTv6Qa12G0&noteId=IcK0rpehH9) Luyten and van der Schaar (presented by Arianna)
 
 2025-01-17: [Masked Siamese Networks for Label-Efficient Learning](https://arxiv.org/abs/2204.07141) Assran et al 2022 (presented by Nick)
 
