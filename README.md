@@ -5,12 +5,14 @@ UH Manoa Weekly AI Seminar
 `SUBSCRIBE AI-SEMINAR firstname lastname`
 
 - To unsubscribe, send blank email to AI-SEMINAR-signoff-request@lists.hawaii.edu
-- To join via zoom or get 692/699 credit (contact [psadow](https://peterjsadowski.github.io/) at hawaii)
+- To join via zoom or get 692 credit, contact [psadow](https://peterjsadowski.github.io/) at hawaii
 
 
 # 2025 Spring Schedule
 
-2025-02-07: TBD
+2025-02-14: 
+
+2025-02-07: 
 
 2025-01-31: [Inferring neural activity before plasticity as a foundation for learning beyond backpropagation](https://www.nature.com/articles/s41593-023-01514-1) Song et al 2024 (presented by Peter)
 
