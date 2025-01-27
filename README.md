@@ -12,9 +12,9 @@ UH Manoa Weekly AI Seminar
 
 2025-02-14: 
 
-2025-02-07: 
+2025-02-07: [Inferring neural activity before plasticity as a foundation for learning beyond backpropagation](https://www.nature.com/articles/s41593-023-01514-1) Song et al 2024 (presented by Peter)
 
-2025-01-31: [Inferring neural activity before plasticity as a foundation for learning beyond backpropagation](https://www.nature.com/articles/s41593-023-01514-1) Song et al 2024 (presented by Peter)
+2025-01-31: [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf) Guo, et al. 2025 (presented by Yosub)
 
 2025-01-24: [A theoretical design of concept sets: improving the predictability of concept bottleneck models](https://openreview.net/forum?id=oTv6Qa12G0&noteId=IcK0rpehH9) Luyten and van der Schaar (presented by Arianna)
 
