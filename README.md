@@ -10,6 +10,8 @@ UH Manoa Weekly AI Seminar
 
 # 2025 Spring Schedule
 
+2025-02-21: [TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis](https://arxiv.org/abs/2210.02186) Wu et al 2023 (presented by Linnea)
+
 2025-02-14: [Score-Based Generative Modeling Through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456) Song et al 2021 (presented by Yusuke)
 
 2025-02-07: [Inferring neural activity before plasticity as a foundation for learning beyond backpropagation](https://www.nature.com/articles/s41593-023-01514-1) Song et al 2024 (presented by Peter)
