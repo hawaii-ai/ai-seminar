@@ -10,6 +10,8 @@ UH Manoa Weekly AI Seminar
 
 # 2025 Spring Schedule
 
+2025-03-07: [Bayesian Flow Networks](https://arxiv.org/abs/2308.07037) Graves, et al 2024 (presented by Peter)
+
 2025-02-28: [Using Early Readouts to Mediate Featural Bias in Distillation](https://arxiv.org/abs/2310.18590) Tiwari, et al 2023 (presented by Amila)
 
 2025-02-21: [TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis](https://arxiv.org/abs/2210.02186) Wu et al 2023 (presented by Linnea)
