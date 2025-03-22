@@ -66,7 +66,7 @@ Signup [spreadsheet](https://docs.google.com/spreadsheets/d/1ah-JpoPwa59x--LdwsA
 
 2024-08-30: [The Hidden Uniform Cluster Prior in Self-Supervised Learning](https://arxiv.org/abs/2210.07277), Assran, et al. (presented by Nick)
 
-2024-08-27: SPECIAL IN-PERSON TALK (2pm in MSB 100): Michael Ito, University of Michigan
+2024-08-27: SPECIAL IN-PERSON TALK (2pm in MSB 100): [Michael Ito](https://www.michaelito-ai.com/), University of Michigan, Learning Laplacian Positional Encodings for Heterophilous Graphs
 
 2024-07-26: SPECIAL IN-PERSON TALK: [Nikita Zhivotovskiy](https://sites.google.com/view/nikitazhivotovskiy/), Improving Risk Bounds with Unbounded Losses via Data-Dependent Priors. 
 
