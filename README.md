@@ -10,6 +10,9 @@ UH Manoa Weekly AI Seminar
 
 # 2025 Spring Schedule
 
+2025-03-28: [T1-weighted MRI-based brain tumor classification using hybrid deep learning models](https://www.nature.com/articles/s41598-025-92020-w), Ilani, et al 2025 (presented by Chayanika), [Global Inequalities in the Production of Artificial Intelligence: A Four-Country Study on Data Work](https://arxiv.org/abs/2410.14230), Casilli, et al 2024 (presented by Kayla-Marie)
+
+
 2025-03-14: [LLM Processes: Numerical Predictive Distributions Conditioned on Natural Language](https://arxiv.org/abs/2405.12856) Requeima, et al 2024 (presented by Peter)
 
 2025-03-07: [Bayesian Flow Networks](https://arxiv.org/abs/2308.07037) Graves, et al 2024 (presented by Peter)
