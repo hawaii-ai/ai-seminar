@@ -10,26 +10,28 @@ UH Manoa Weekly AI Seminar
 
 # 2025 Spring Schedule
 
-2025-03-28: [T1-weighted MRI-based brain tumor classification using hybrid deep learning models](https://www.nature.com/articles/s41598-025-92020-w), Ilani, et al 2025 (presented by Chayanika), [Global Inequalities in the Production of Artificial Intelligence: A Four-Country Study on Data Work](https://arxiv.org/abs/2410.14230), Casilli, et al 2024 (presented by Kayla-Marie)
+2025-03-30: [EMMA: End-to-End Multimodal Model for Autonomous Driving](https://arxiv.org/abs/2410.23262), Hwang, et al. 2024 (presented by Moseli)
+
+2025-03-28: [T1-weighted MRI-based brain tumor classification using hybrid deep learning models](https://www.nature.com/articles/s41598-025-92020-w), Ilani, et al. 2025 (presented by Chayanika), [Global Inequalities in the Production of Artificial Intelligence: A Four-Country Study on Data Work](https://arxiv.org/abs/2410.14230), Casilli, et al. 2024 (presented by Kayla-Marie)
 
 
-2025-03-14: [LLM Processes: Numerical Predictive Distributions Conditioned on Natural Language](https://arxiv.org/abs/2405.12856) Requeima, et al 2024 (presented by Peter)
+2025-03-14: [LLM Processes: Numerical Predictive Distributions Conditioned on Natural Language](https://arxiv.org/abs/2405.12856) Requeima, et al. 2024 (presented by Peter)
 
-2025-03-07: [Bayesian Flow Networks](https://arxiv.org/abs/2308.07037) Graves, et al 2024 (presented by Peter)
+2025-03-07: [Bayesian Flow Networks](https://arxiv.org/abs/2308.07037) Graves, et al. 2024 (presented by Peter)
 
-2025-02-28: [Using Early Readouts to Mediate Featural Bias in Distillation](https://arxiv.org/abs/2310.18590) Tiwari, et al 2023 (presented by Amila)
+2025-02-28: [Using Early Readouts to Mediate Featural Bias in Distillation](https://arxiv.org/abs/2310.18590) Tiwari, et al. 2023 (presented by Amila)
 
-2025-02-21: [TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis](https://arxiv.org/abs/2210.02186) Wu et al 2023 (presented by Linnea)
+2025-02-21: [TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis](https://arxiv.org/abs/2210.02186) Wu, et al. 2023 (presented by Linnea)
 
-2025-02-14: [Score-Based Generative Modeling Through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456) Song et al 2021 (presented by Yusuke)
+2025-02-14: [Score-Based Generative Modeling Through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456) Song, et al. 2021 (presented by Yusuke)
 
-2025-02-07: [Inferring neural activity before plasticity as a foundation for learning beyond backpropagation](https://www.nature.com/articles/s41593-023-01514-1) Song et al 2024 (presented by Peter)
+2025-02-07: [Inferring neural activity before plasticity as a foundation for learning beyond backpropagation](https://www.nature.com/articles/s41593-023-01514-1) Song, et al. 2024 (presented by Peter)
 
 2025-01-31: [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf) Guo, et al. 2025 (presented by Yosub)
 
 2025-01-24: [A theoretical design of concept sets: improving the predictability of concept bottleneck models](https://openreview.net/forum?id=oTv6Qa12G0&noteId=IcK0rpehH9) Luyten and van der Schaar (presented by Arianna)
 
-2025-01-17: [Masked Siamese Networks for Label-Efficient Learning](https://arxiv.org/abs/2204.07141) Assran et al 2022 (presented by Nick)
+2025-01-17: [Masked Siamese Networks for Label-Efficient Learning](https://arxiv.org/abs/2204.07141) Assran, et al. 2022 (presented by Nick)
 
 Todo: [Aurora: A Foundation Model of the Atmosphere](https://arxiv.org/abs/2405.13063)
 
@@ -40,11 +42,11 @@ Signup [spreadsheet](https://docs.google.com/spreadsheets/d/1ah-JpoPwa59x--LdwsA
 
 2024-12-06: [Knowledge in the grey zone: AI and cybersecurity](https://link.springer.com/article/10.1057/s42984-020-00007-w), Stevens, 2024 (presented by Chris),
 
-[OmniFold: A Method to Simultaneously Unfold All Observables](https://arxiv.org/abs/1911.09107), Andreassen, et al 2020 (presented by Ethan),
+[OmniFold: A Method to Simultaneously Unfold All Observables](https://arxiv.org/abs/1911.09107), Andreassen, et al. 2020 (presented by Ethan),
 
-[Exposing Outlier Exposure: What Can Be Learned From Few, One, and Zero Outlier Images](https://arxiv.org/abs/2205.11474), Liznerski et al, 2022 (presented by Tojo)
+[Exposing Outlier Exposure: What Can Be Learned From Few, One, and Zero Outlier Images](https://arxiv.org/abs/2205.11474), Liznerski, et al. 2022 (presented by Tojo)
 
-2024-11-15: [Multimodal contrastive learning for remote sensing tasks](https://arxiv.org/abs/2209.02329), Jain, et al 2022 (presented by Amila)
+2024-11-15: [Multimodal contrastive learning for remote sensing tasks](https://arxiv.org/abs/2209.02329), Jain, et al. 2022 (presented by Amila)
 
 2024-11-08: [Towards a Feminist Metaethics of AI](https://arxiv.org/abs/2311.14700), Siapka 2022 (presented by Kayla-Marie)
 
