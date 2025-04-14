@@ -10,6 +10,8 @@ UH Manoa Weekly AI Seminar
 
 # 2025 Spring Schedule
 
+2025-04-25: [Mastering diverse control tasks through world models](https://www.nature.com/articles/s41586-025-08744-2), Hafner, et al. 2025 (presented by Chris),
+
 2025-04-11: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992), Nie, et al. 2025 (presented by Joel), [A foundational vision transformer improves diagnostic performance for electrocardiograms](https://www.nature.com/articles/s41746-023-00840-9), Vaid, et al. 2024 (presented by SK)
 
 2025-04-04: [EMMA: End-to-End Multimodal Model for Autonomous Driving](https://arxiv.org/abs/2410.23262), Hwang, et al. 2024 (presented by Moseli)
