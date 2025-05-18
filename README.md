@@ -8,7 +8,14 @@ UH Manoa Weekly AI Seminar
 - To join via zoom or get 692 credit, contact [psadow](https://peterjsadowski.github.io/) at hawaii
 
 
-# 2025 Spring Schedule
+# 2025 Summer Schedule
+
+2025-05-23 TBD (suggestions?)
+
+Signup [spreadsheet](https://docs.google.com/spreadsheets/d/1ah-JpoPwa59x--LdwsAmpWh5Tv3OvqMhBrs60mSTjKo/edit?usp=sharing) and [site](https://github.com/hawaii-ai/ai-seminar).
+
+
+# Past Seminars
 
 2025-05-02: [PaperBench: Evaluating AI's Ability to Replicate AI Research](https://arxiv.org/abs/2504.01848), Starace, et al. 2025 (presented by Lance), [Application of Decision Tree (M5Tree) Algorithm for Multicrop Yield Prediction of the Semi-Arid Region of Maharashtra, India](https://www.jsoftcivil.com/article_196446.html), Borse and Agnihotri, 2025 (presented by Raj)
 
@@ -37,13 +44,6 @@ UH Manoa Weekly AI Seminar
 2025-01-24: [A theoretical design of concept sets: improving the predictability of concept bottleneck models](https://openreview.net/forum?id=oTv6Qa12G0&noteId=IcK0rpehH9) Luyten and van der Schaar (presented by Arianna)
 
 2025-01-17: [Masked Siamese Networks for Label-Efficient Learning](https://arxiv.org/abs/2204.07141) Assran, et al. 2022 (presented by Nick)
-
-Todo: [Aurora: A Foundation Model of the Atmosphere](https://arxiv.org/abs/2405.13063)
-
-Signup [spreadsheet](https://docs.google.com/spreadsheets/d/1ah-JpoPwa59x--LdwsAmpWh5Tv3OvqMhBrs60mSTjKo/edit?usp=sharing) and [site](https://github.com/hawaii-ai/ai-seminar).
-
-
-# Past Seminars
 
 2024-12-06: [Knowledge in the grey zone: AI and cybersecurity](https://link.springer.com/article/10.1057/s42984-020-00007-w), Stevens, 2024 (presented by Chris),
 
