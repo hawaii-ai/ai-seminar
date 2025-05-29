@@ -10,7 +10,7 @@ UH Manoa Weekly AI Seminar
 
 # 2025 Summer Schedule
 
-2025-05-23 TBD (suggestions?)
+2025-05-29 [On Embeddings for Numerical Features in Tabular Deep Learning](https://arxiv.org/abs/2203.05556), Gorishniy, et al. 2023 (presented by Peter)
 
 Signup [spreadsheet](https://docs.google.com/spreadsheets/d/1ah-JpoPwa59x--LdwsAmpWh5Tv3OvqMhBrs60mSTjKo/edit?usp=sharing) and [site](https://github.com/hawaii-ai/ai-seminar).
 
