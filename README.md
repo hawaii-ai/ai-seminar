@@ -10,7 +10,7 @@ UH Manoa Weekly AI Seminar
 
 # 2025 Summer Schedule
 
-2025-06-06 No meeting.
+2025-06-13 [Neural Processes](https://arxiv.org/abs/1807.01622), Garnelo, et al. 2018 (presented by Peter)
 
 2025-05-29 [On Embeddings for Numerical Features in Tabular Deep Learning](https://arxiv.org/abs/2203.05556), Gorishniy, et al. 2023 (presented by Peter)
 
