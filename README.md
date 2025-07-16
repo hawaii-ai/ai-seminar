@@ -10,6 +10,8 @@ UH Manoa Weekly AI Seminar
 
 # 2025 Summer Schedule
 
+2025-07-18 [Bayesian Learning for Neural Networks](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=db869fa192a3222ae4f2d766674a378e47013b1b), Neal, 1995 (presented by Yusuke)
+
 2025-07-11 [The Platonic Representation Hypothesis](https://arxiv.org/abs/2405.07987), Huh, et al. 2024 
 
 2025-06-27 [A foundation model for the Earth system](https://www.nature.com/articles/s41586-025-09005-y), Bodnar, et al. 2025
