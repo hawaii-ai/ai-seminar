@@ -7,6 +7,9 @@ UH Manoa Weekly AI Seminar
 - To unsubscribe, send blank email to AI-SEMINAR-signoff-request@lists.hawaii.edu
 - To join via zoom or get 692 credit, contact [psadow](https://peterjsadowski.github.io/) at hawaii
 
+# 2025 Fall Schedule 
+
+2025-10-03 Talk: CARE-AI
 
 # 2025 Summer Schedule
 
