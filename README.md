@@ -13,9 +13,9 @@ UH Manoa Weekly AI Seminar
 
 # 2025 Summer Schedule
 
-2025-08-07 IN-PERSON TALK 4pm: Michael Ito, Univ. of Michigan, Efficient and Expressive Graph Learning via Random Search Neural Networks
+2025-08-07 IN-PERSON TALK 4pm: [Michael Ito](https://michaelito-ai.com/), Univ. of Michigan, Efficient and Expressive Graph Learning via Random Search Neural Networks
 
-2025-08-04 IN-PERSON TALK: Nick Glaser, Domain-Specific Foundation Models for Science Applications: Self-Supervised Learning with SAR and DXA
+2025-08-04 IN-PERSON TALK: [Nick Glaser](https://nick-ai.github.io/), Domain-Specific Foundation Models for Science Applications: Self-Supervised Learning with SAR and DXA
 
 2025-07-25 [Bayesian Deep Learning for Spatial Interpolation in the Presence of Auxiliary Information](https://link.springer.com/article/10.1007/s11004-021-09988-0), Kirkwood, et al. 2022
 
