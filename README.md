@@ -9,9 +9,12 @@ UH Manoa Weekly AI Seminar
 
 # 2025 Fall Schedule 
 
-2025-10-03 Talk: CARE-AI
+2025-08-29 [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020), Radford, et al. 2021 (presented by Yosub)
 
-# 2025 Summer Schedule
+Signup [spreadsheet](https://docs.google.com/spreadsheets/d/1ah-JpoPwa59x--LdwsAmpWh5Tv3OvqMhBrs60mSTjKo/edit?usp=sharing) and [site](https://github.com/hawaii-ai/ai-seminar).
+
+
+# Past Seminars
 
 2025-08-07 IN-PERSON TALK 4pm: [Michael Ito](https://michaelito-ai.com/), Univ. of Michigan, Efficient and Expressive Graph Learning via Random Search Neural Networks
 
@@ -30,11 +33,6 @@ UH Manoa Weekly AI Seminar
 2025-06-13 [Neural Processes](https://arxiv.org/abs/1807.01622), Garnelo, et al. 2018 
 
 2025-05-29 [On Embeddings for Numerical Features in Tabular Deep Learning](https://arxiv.org/abs/2203.05556), Gorishniy, et al. 2023 (presented by Peter)
-
-Signup [spreadsheet](https://docs.google.com/spreadsheets/d/1ah-JpoPwa59x--LdwsAmpWh5Tv3OvqMhBrs60mSTjKo/edit?usp=sharing) and [site](https://github.com/hawaii-ai/ai-seminar).
-
-
-# Past Seminars
 
 2025-05-02: [PaperBench: Evaluating AI's Ability to Replicate AI Research](https://arxiv.org/abs/2504.01848), Starace, et al. 2025 (presented by Lance), [Application of Decision Tree (M5Tree) Algorithm for Multicrop Yield Prediction of the Semi-Arid Region of Maharashtra, India](https://www.jsoftcivil.com/article_196446.html), Borse and Agnihotri, 2025 (presented by Raj)
 
