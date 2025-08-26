@@ -9,7 +9,9 @@ UH Manoa Weekly AI Seminar
 
 # 2025 Fall Schedule 
 
-2025-08-29 [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020), Radford, et al. 2021 (presented by Yosub)
+2025-09-05 [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020), Radford, et al. 2021 (presented by Yosub)
+
+2025-08-29 IN-PERSON TALK at IFA: Doug Finkbeiner, Harvard University, [Opening the Black Box: How We’re Learning to Read the Minds of AI Systems](https://about.ifa.hawaii.edu/research/talks/current-colloquia/#aug29)
 
 Signup [spreadsheet](https://docs.google.com/spreadsheets/d/1ah-JpoPwa59x--LdwsAmpWh5Tv3OvqMhBrs60mSTjKo/edit?usp=sharing) and [site](https://github.com/hawaii-ai/ai-seminar).
 
