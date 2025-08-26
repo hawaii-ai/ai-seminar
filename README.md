@@ -1,5 +1,5 @@
 UH Manoa Weekly AI Seminar
-- Fridays 12:00-13:30 in POST 302
+- Fridays 12:00-13:30 in Sakamaki C203
 - To subscribe to the listserv, email listserv@lists.hawaii.edu with no subject and the following body:
   
 `SUBSCRIBE AI-SEMINAR firstname lastname`
