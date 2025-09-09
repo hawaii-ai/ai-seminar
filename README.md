@@ -7,7 +7,15 @@ UH Manoa Weekly AI Seminar
 - To unsubscribe, send blank email to AI-SEMINAR-signoff-request@lists.hawaii.edu
 - To join via zoom or get 692 credit, contact [psadow](https://peterjsadowski.github.io/) at hawaii
 
-# 2025 Fall Schedule 
+# 2025 Fall Schedule
+
+2025-10-03 TBD
+
+2025-09-26 [Prithvi-EO-2.0: A Versatile Multi-Temporal Foundation Model for Earth Observation Applications](https://arxiv.org/abs/2412.02732), Szwarcman, et al. 2025 (presented by Joel)
+
+2025-09-19 [A Unified Approach to Interpreting Model Predictions](https://dl.acm.org/doi/10.5555/3295222.3295230), Lundberg and Lee, 2017, (presented by Arianna)
+
+2025-09-12 [Flow Matching for Generative Modeling](https://arxiv.org/abs/2210.02747), Lipman, et al. 2023 (presented by Yusuke)
 
 2025-09-05 [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020), Radford, et al. 2021 (presented by Yosub)
 
