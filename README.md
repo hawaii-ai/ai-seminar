@@ -1,11 +1,11 @@
 UH Manoa Weekly AI Seminar
-- Fridays 12:00-13:30 in Sakamaki C203
-- To subscribe to the listserv, email listserv@lists.hawaii.edu with no subject and the following body:
+- Fridays 12:00-13:30 in Sakamaki C203. Anyone is welcome!
+- Weekly topics and other AI events at UHM are announced on our mailing list. To subscribe, email listserv@lists.hawaii.edu with no subject and the following body:
   
 `SUBSCRIBE AI-SEMINAR firstname lastname`
 
 - To unsubscribe, send blank email to AI-SEMINAR-signoff-request@lists.hawaii.edu
-- To join via zoom or get 692 credit, contact [psadow](https://peterjsadowski.github.io/) at hawaii
+- To join via zoom or get ICS 692 credit, contact [psadow](https://peterjsadowski.github.io/) at hawaii
 
 # 2025 Fall Schedule
 
