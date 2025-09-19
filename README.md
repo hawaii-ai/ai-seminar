@@ -9,7 +9,9 @@ UH Manoa Weekly AI Seminar
 
 # 2025 Fall Schedule
 
-2025-10-03 TBD
+2025-10-10 TBD
+
+2025-10-03 TALK at 1pm ([AIPHI](https://aiphi.shepherdresearchlab.org/affinity-group-meetings/)): [Liu Nan](https://www.duke-nus.edu.sg/directory/detail/liu-nan), National University of Singapore
 
 2025-09-26 [Prithvi-EO-2.0: A Versatile Multi-Temporal Foundation Model for Earth Observation Applications](https://arxiv.org/abs/2412.02732), Szwarcman, et al. 2025 (presented by Joel)
 
