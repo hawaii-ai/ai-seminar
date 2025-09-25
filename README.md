@@ -9,6 +9,10 @@ UH Manoa Weekly AI Seminar
 
 # 2025 Fall Schedule
 
+2025-10-24 IN-PERSON AI SYMPOSIUM (with visitors attending ICCV 2025)
+
+2025-10-17 TBD
+
 2025-10-10 TBD
 
 2025-10-03 TALK at 1pm ([AIPHI](https://aiphi.shepherdresearchlab.org/affinity-group-meetings/)): [Liu Nan](https://www.duke-nus.edu.sg/directory/detail/liu-nan), National University of Singapore
