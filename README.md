@@ -9,9 +9,11 @@ UH Manoa Weekly AI Seminar
 
 # 2025 Fall Schedule
 
+2025-10-31 [Climate in a Bottle: Towards a Generative Foundation Model for the Kilometer-Scale Global Atmosphere](https://arxiv.org/abs/2505.06474), Brenowitz, et al. 2025 (presented by Gerardo)
+
 2025-10-24 IN-PERSON AI SYMPOSIUM (with visitors attending ICCV 2025)
 
-2025-10-17 [Climate in a Bottle: Towards a Generative Foundation Model for the Kilometer-Scale Global Atmosphere](https://arxiv.org/abs/2505.06474), Brenowitz, et al. 2025 (presented by Gerardo)
+2025-10-17 IN-PERSON TALK: Agastya Kalra 
 
 2025-10-10 TBD
 
