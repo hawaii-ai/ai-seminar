@@ -15,7 +15,7 @@ UH Manoa Weekly AI Seminar
 
 2025-10-17 IN-PERSON TALK: Agastya Kalra 
 
-2025-10-10 TBD
+2025-10-10 [Gaussian Processes in Machine Learning](https://mlg.eng.cam.ac.uk/pub/pdf/Ras04.pdf) Rasmussen, 2004 (presented by Linnea)
 
 2025-10-03 TALK at 1pm ([AIPHI](https://aiphi.shepherdresearchlab.org/affinity-group-meetings/)): [Liu Nan](https://www.duke-nus.edu.sg/directory/detail/liu-nan), National University of Singapore
 
