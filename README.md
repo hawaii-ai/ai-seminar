@@ -13,7 +13,7 @@ UH Manoa Weekly AI Seminar
 
 2025-10-24 IN-PERSON AI SYMPOSIUM (with visitors attending ICCV 2025)
 
-2025-10-17 [Vision Transformers for Dense Predictions](https://arxiv.org/abs/2103.13413), Ranftl, 2001 (presented by Agastya)
+2025-10-17 [Vision Transformers for Dense Predictions](https://arxiv.org/abs/2103.13413), Ranftl, 2021 (presented by Agastya)
 
 2025-10-10 [Gaussian Processes in Machine Learning](https://mlg.eng.cam.ac.uk/pub/pdf/Ras04.pdf) Rasmussen, 2004 (presented by Linnea)
 
