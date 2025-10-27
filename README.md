@@ -9,7 +9,7 @@ UH Manoa Weekly AI Seminar
 
 # 2025 Fall Schedule
 
-2025-11-14 [Fronteirs of Simulation Based Inference](https://www.pnas.org/doi/10.1073/pnas.1912789117), Cranmer, et al. 2020 (presented by Ethan, Tojo, and Mikey)
+2025-11-14 [Frontiers of Simulation Based Inference](https://www.pnas.org/doi/10.1073/pnas.1912789117), Cranmer, et al. 2020 (presented by Ethan, Tojo, and Mikey)
 
 2025-11-07 [Climate in a Bottle: Towards a Generative Foundation Model for the Kilometer-Scale Global Atmosphere](https://arxiv.org/abs/2505.06474), Brenowitz, et al. 2025 (presented by Gerardo)
 
