@@ -8,6 +8,9 @@ UH Manoa Weekly AI Seminar
 - To join via zoom or get ICS 692 credit, contact [psadow](https://peterjsadowski.github.io/) at hawaii
 
 # 2025 Fall Schedule
+2025-12-05 TBD
+
+2025-11-21 [Federated learning: Overview, strategies, applications, tools and future directions](https://www.sciencedirect.com/science/article/pii/S2405844024141680) Yurdem, et al. 2024 (presented by Ethan Chung and Samuel)
 
 2025-11-14 [Frontiers of Simulation Based Inference](https://www.pnas.org/doi/10.1073/pnas.1912789117), Cranmer, et al. 2020 (presented by Ethan, Tojo, and Mikey)
 
