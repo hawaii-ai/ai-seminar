@@ -12,7 +12,7 @@ UH Manoa Weekly AI Seminar
 
 2025-11-21 [Federated learning: Overview, strategies, applications, tools and future directions](https://www.sciencedirect.com/science/article/pii/S2405844024141680) Yurdem, et al. 2024 (presented by Ethan Chung and Samuel)
 
-2025-11-14 TBD
+2025-11-14 [Simulation Based Inference: A Practical Guide](https://arxiv.org/abs/2508.12939) (presented by Ethan, Tojo, and Mikey)
 
 2025-11-07 [Climate in a Bottle: Towards a Generative Foundation Model for the Kilometer-Scale Global Atmosphere](https://arxiv.org/abs/2505.06474), Brenowitz, et al. 2025 (presented by Gerardo)
 
