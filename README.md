@@ -10,7 +10,7 @@ UH Manoa Weekly AI Seminar
 # 2025 Fall Schedule
 2025-12-05 TBD
 
-2025-11-21 [Federated learning: Overview, strategies, applications, tools and future directions](https://www.sciencedirect.com/science/article/pii/S2405844024141680) Yurdem, et al. 2024 (presented by Ethan Chung and Samuel)
+2025-11-21 [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629) McMahan, et al. 2016 (presented by Ethan and Samuel)
 
 2025-11-14 [Simulation Based Inference: A Practical Guide](https://arxiv.org/abs/2508.12939) (presented by Ethan, Tojo, and Mikey)
 
