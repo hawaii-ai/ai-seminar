@@ -8,7 +8,7 @@ UH Manoa Weekly AI Seminar
 - To join via zoom or get ICS 692 credit, contact [psadow](https://peterjsadowski.github.io/) at hawaii
 
 # 2025 Fall Schedule
-2025-12-05 TBD
+2025-12-05 [Towards an AI Co-Scientist](https://arxiv.org/abs/2502.18864) Gottweis, et al. 2025 (presented by Alexander and Roy)
 
 2025-11-21 [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629) McMahan, et al. 2016 (presented by Ethan and Samuel)
 
