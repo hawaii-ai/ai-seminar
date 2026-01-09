@@ -1,13 +1,24 @@
 UH Manoa Weekly AI Seminar
-- Fridays 12:00-13:30 in Sakamaki C203. Anyone is welcome!
+- Fridays 12:00-13:30. Anyone is welcome!
 - Weekly topics and other AI events at UHM are announced on our mailing list. To subscribe, email listserv@lists.hawaii.edu with no subject and the following body:
   
 `SUBSCRIBE AI-SEMINAR firstname lastname`
 
 - To unsubscribe, send blank email to AI-SEMINAR-signoff-request@lists.hawaii.edu
-- To join via zoom or get ICS 692 credit, contact [psadow](https://peterjsadowski.github.io/) at hawaii
+- To get ICS 692 credit, contact [psadow](https://peterjsadowski.github.io/) at hawaii
 
-# 2025 Fall Schedule
+# 2026 Spring Schedule
+
+2026-01-23 TBD
+
+2026-01-16 [Recursive Language Models](https://arxiv.org/abs/2512.24601) Zhang, et al. 2025 (presented by Nick)
+
+
+Signup [spreadsheet](https://docs.google.com/spreadsheets/d/1ah-JpoPwa59x--LdwsAmpWh5Tv3OvqMhBrs60mSTjKo/edit?usp=sharing) and [site](https://github.com/hawaii-ai/ai-seminar).
+
+
+# Past Seminars
+
 2025-12-05 [Towards an AI Co-Scientist](https://arxiv.org/abs/2502.18864) Gottweis, et al. 2025 (presented by Alexander and Roy)
 
 2025-11-21 [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629) McMahan, et al. 2016 (presented by Ethan and Samuel)
@@ -35,11 +46,6 @@ UH Manoa Weekly AI Seminar
 2025-09-05 [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020), Radford, et al. 2021 (presented by Yosub)
 
 2025-08-29 IN-PERSON TALK at IFA: Doug Finkbeiner, Harvard University, [Opening the Black Box: How We’re Learning to Read the Minds of AI Systems](https://about.ifa.hawaii.edu/research/talks/current-colloquia/#aug29)
-
-Signup [spreadsheet](https://docs.google.com/spreadsheets/d/1ah-JpoPwa59x--LdwsAmpWh5Tv3OvqMhBrs60mSTjKo/edit?usp=sharing) and [site](https://github.com/hawaii-ai/ai-seminar).
-
-
-# Past Seminars
 
 2025-08-07 IN-PERSON TALK 4pm: [Michael Ito](https://michaelito-ai.com/), Univ. of Michigan, Efficient and Expressive Graph Learning via Random Search Neural Networks
 
