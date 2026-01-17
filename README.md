@@ -9,7 +9,9 @@ UH Manoa Weekly AI Seminar
 
 # 2026 Spring Schedule
 
-2026-01-23 TBD
+2026-01-30 TBD
+
+2026-01-23 [Estimation and Inference of Heterogeneous Treatment Effects using Random Forests](https://arxiv.org/abs/1510.04342) Wager and Athey, 2015 (presented by Arianna)
 
 2026-01-16 [Recursive Language Models](https://arxiv.org/abs/2512.24601) Zhang, et al. 2025 (presented by Nick)
 
