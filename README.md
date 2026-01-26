@@ -9,7 +9,11 @@ UH Manoa Weekly AI Seminar
 
 # 2026 Spring Schedule
 
-2026-01-30 TBD
+2026-02-13 TBD
+
+2026-02-06 TBD
+
+2026-01-30 [In Search of Adam's Secret Sauce](https://arxiv.org/abs/2505.21829) Orvieto and Gower, 2025 (presented by Linnea)
 
 2026-01-23 [Estimation and Inference of Heterogeneous Treatment Effects using Random Forests](https://arxiv.org/abs/1510.04342) Wager and Athey, 2015 (presented by Arianna)
 
