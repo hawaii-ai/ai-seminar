@@ -9,7 +9,9 @@ UH Manoa Weekly AI Seminar
 
 # 2026 Spring Schedule
 
-2026-02-13 TBD
+2026-02-20 TBD
+
+2026-02-13 [Elucidating the Design Space of Diffusion-Based Generative Models](https://arxiv.org/abs/2206.00364) Karras, et al. 2022 (presented by Yusuke)
 
 2026-02-06 [Generative AI for the Optimization of Next-Generation Wireless Networks: Basics, State-of-the-Art, and Open Challenges](https://arxiv.org/abs/2405.17454) Khoramnejad and Hossain, 2024 (presented by Aris)
 
