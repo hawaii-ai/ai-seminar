@@ -9,7 +9,9 @@ UH Manoa Weekly AI Seminar
 
 # 2026 Spring Schedule
 
-2026-02-20 TBD
+2026-02-27 TBD
+
+2026-02-20 [π_0.5: a Vision-Language-Action Model with Open-World Generalization](https://arxiv.org/abs/2504.16054) Black, et al. 2025 (presented by Christian)
 
 2026-02-13 [Elucidating the Design Space of Diffusion-Based Generative Models](https://arxiv.org/abs/2206.00364) Karras, et al. 2022 (presented by Yusuke)
 
