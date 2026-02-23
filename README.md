@@ -9,7 +9,11 @@ UH Manoa Weekly AI Seminar
 
 # 2026 Spring Schedule
 
-2026-02-27 TBD
+2026-03-13 TBD
+
+2026-03-06 TBD
+
+2026-02-27 [Position: LLMs Can’t Plan, But Can Help Planning in LLM-Modulo Frameworks](https://arxiv.org/abs/2402.01817), Kambhampati, et al. 2024
 
 2026-02-20 [π_0.5: a Vision-Language-Action Model with Open-World Generalization](https://arxiv.org/abs/2504.16054) Black, et al. 2025 (presented by Christian)
 
