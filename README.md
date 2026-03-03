@@ -11,7 +11,7 @@ UH Manoa Weekly AI Seminar
 
 2026-03-13 TBD
 
-2026-03-06 TBD
+2026-03-06 [WorldGym: World Model as An Environment for Policy Evaluation](https://arxiv.org/abs/2506.00613) Quevedo, et al. 2025 (also see [this talk](https://youtu.be/7Gyuar7nMz0?t=4154))
 
 2026-02-27 [Position: LLMs Can’t Plan, But Can Help Planning in LLM-Modulo Frameworks](https://arxiv.org/abs/2402.01817), Kambhampati, et al. 2024
 
