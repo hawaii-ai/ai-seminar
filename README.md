@@ -9,7 +9,9 @@ UH Manoa Weekly AI Seminar
 
 # 2026 Spring Schedule
 
-2026-03-13 TBD
+2026-03-20 TBD
+
+2026-03-13 [Enhancing Game AI Behaviors with Large Language Models and Agentic AI](https://dl.acm.org/doi/10.1145/3696630.3728553) Paduraru, et al. 2025 (presented by Anson)
 
 2026-03-06 [WorldGym: World Model as An Environment for Policy Evaluation](https://arxiv.org/abs/2506.00613) Quevedo, et al. 2025 (also see [this talk](https://youtu.be/7Gyuar7nMz0?t=4154))
 
