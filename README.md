@@ -9,7 +9,9 @@ UH Manoa Weekly AI Seminar
 
 # 2026 Spring Schedule
 
-2026-04-03 TBD
+2026-04-17 TBD
+
+2026-04-10 [Chain-of-Retrieval Augmented Generation](https://arxiv.org/abs/2501.14342), Wang, et al. 2025 (presented by Joe and Cade)
 
 2026-03-27 [Distributed Spatial Awareness for Robot Swarms](https://arxiv.org/abs/2411.07056) Jones and Hauert, 2024 (presented by Iwalani)
 
