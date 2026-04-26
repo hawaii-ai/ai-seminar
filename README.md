@@ -9,6 +9,8 @@ UH Manoa Weekly AI Seminar
 
 # 2026 Spring Schedule
 
+2026-05-01 [Empowerment: An Introduction](https://arxiv.org/abs/1310.1863), Salge, et al. 2014 (presented by Peter)
+
 2026-04-24 [Chain-of-Retrieval Augmented Generation](https://arxiv.org/abs/2501.14342), Wang, et al. 2025 (presented by Joe and Cade)
 
 2026-04-17 [Latent Space Imaging](https://arxiv.org/abs/2407.07052), Souza, et al. 2024 (presented by Norman and Yujin)
