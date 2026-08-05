@@ -7,7 +7,19 @@ UH Manoa Weekly AI Seminar
 - To unsubscribe, send blank email to AI-SEMINAR-signoff-request@lists.hawaii.edu
 - To get ICS 692 credit, contact [psadow](https://peterjsadowski.github.io/) at hawaii
 
-# 2026 Spring Schedule
+# 2026 Fall Schedule
+
+2026-09-11 TBD
+
+2026-09-04 TBD
+
+2026-08-28 [Towards Automating Scientific Review with Google's Paper Assistant Tool](https://arxiv.org/abs/2606.28277) Jayaram, et al. 2026 
+
+
+Signup [spreadsheet](https://docs.google.com/spreadsheets/d/1ah-JpoPwa59x--LdwsAmpWh5Tv3OvqMhBrs60mSTjKo/edit?usp=sharing) and [site](https://github.com/hawaii-ai/ai-seminar).
+
+
+# Past Seminars
 
 2026-05-01 [Empowerment: An Introduction](https://arxiv.org/abs/1310.1863), Salge, et al. 2014 (presented by Peter)
 
@@ -34,12 +46,6 @@ UH Manoa Weekly AI Seminar
 2026-01-23 [Estimation and Inference of Heterogeneous Treatment Effects using Random Forests](https://arxiv.org/abs/1510.04342) Wager and Athey, 2015 (presented by Arianna)
 
 2026-01-16 [Recursive Language Models](https://arxiv.org/abs/2512.24601) Zhang, et al. 2025 (presented by Nick)
-
-
-Signup [spreadsheet](https://docs.google.com/spreadsheets/d/1ah-JpoPwa59x--LdwsAmpWh5Tv3OvqMhBrs60mSTjKo/edit?usp=sharing) and [site](https://github.com/hawaii-ai/ai-seminar).
-
-
-# Past Seminars
 
 2025-12-05 [Towards an AI Co-Scientist](https://arxiv.org/abs/2502.18864) Gottweis, et al. 2025 (presented by Alexander and Roy)
 
