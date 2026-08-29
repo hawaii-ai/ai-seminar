@@ -11,7 +11,7 @@ UH Manoa Weekly AI Seminar
 
 2026-09-11 TBD
 
-2026-09-04 TBD
+2026-09-04 [From Words to Worlds: Spatial Intelligence is AI’s Next Frontier](https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence) Fei-Fei Li, 2025
 
 2026-08-28 [Towards Automating Scientific Review with Google's Paper Assistant Tool](https://arxiv.org/abs/2606.28277) Jayaram, et al. 2026 
 
