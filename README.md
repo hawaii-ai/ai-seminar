@@ -9,7 +9,11 @@ UH Manoa Weekly AI Seminar
 
 # 2026 Fall Schedule
 
-2026-09-11 TBD
+2026-09-25 TBD
+
+2026-09-18 [Verbalizable Representations Form a Global Workspace in Language Models](https://arxiv.org/abs/2607.15495) Gurnee, et al. 2026
+
+2026-09-11 [Concept Bottleneck Large Language Models](https://arxiv.org/abs/2412.07992) Sun, et al. 2025 (presented by Arianna)
 
 2026-09-04 [From Words to Worlds: Spatial Intelligence is AI’s Next Frontier](https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence) Fei-Fei Li, 2025
 
