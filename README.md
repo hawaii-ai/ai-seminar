@@ -9,9 +9,11 @@ UH Manoa Weekly AI Seminar
 
 # 2026 Fall Schedule
 
-2026-09-25 TBD
+2026-10-02 TBD
 
-2026-09-18 [Verbalizable Representations Form a Global Workspace in Language Models](https://arxiv.org/abs/2607.15495) Gurnee, et al. 2026
+2026-09-25 [Verbalizable Representations Form a Global Workspace in Language Models](https://arxiv.org/abs/2607.15495) Gurnee, et al. 2026
+
+2026-09-18 [DeepSeek V4-1](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash/blob/main/DeepSeek_V41_Tech_Report.pdf) DeepSeek AI, 2026
 
 2026-09-11 [Concept Bottleneck Large Language Models](https://arxiv.org/abs/2412.07992) Sun, et al. 2025 (presented by Arianna)
 
