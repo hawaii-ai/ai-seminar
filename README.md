@@ -17,7 +17,7 @@ UH Manoa Weekly AI Seminar
 
 2026-09-25 No meeting
 
-2026-09-18 [DeepSeek V4-1](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash/blob/main/DeepSeek_V41_Tech_Report.pdf) 2026
+2026-09-18 [DeepSeek V4-1 Pre-training](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash/blob/main/DeepSeek_V41_Tech_Report.pdf) DeepSeek AI, 2026
 
 2026-09-11 [Concept Bottleneck Large Language Models](https://arxiv.org/abs/2412.07992) Sun, et al. 2025 (presented by Arianna)
 
