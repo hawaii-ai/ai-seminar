@@ -9,7 +9,11 @@ UH Manoa Weekly AI Seminar
 
 # 2026 Fall Schedule
 
-2026-10-30 TBD
+2026-11-13 TBD
+
+2026-11-06 TBD
+
+2026-10-30 No meeting. Happy Halloween!
 
 2026-10-23 [Neural Networks are Already Clean](https://already-clean.goodfire.com/) Cammarata, 2026
 
