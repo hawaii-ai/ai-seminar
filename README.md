@@ -11,10 +11,6 @@ UH Manoa Weekly AI Seminar
 
 2026-11-13 TBD
 
-2026-11-06 TBD
-
-2026-10-30 No meeting. Happy Halloween!
-
 2026-10-23 [Neural Networks are Already Clean](https://already-clean.goodfire.com/) Cammarata, 2026
 
 2026-10-16 [Verbalizable Representations Form a Global Workspace in Language Models](https://arxiv.org/abs/2607.15495) Gurnee, et al. 2026
