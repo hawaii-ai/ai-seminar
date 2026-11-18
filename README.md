@@ -9,7 +9,7 @@ UH Manoa Weekly AI Seminar
 
 # 2026 Fall Schedule
 
-2026-11-20 TBD
+2026-11-20 [Skillful Thunderstorm Forecasts Learned Directly from Observations](https://arxiv.org/abs/2601.17268) Pathak, et al. 2026 (Linnea presents)
 
 2026-11-13 [Fixing a Broken ELBO](https://arxiv.org/abs/1711.00464) Alemi, 2018
 
